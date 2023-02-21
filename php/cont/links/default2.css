@@ -1,0 +1,67 @@
+
+/*------------------------------------------------------------------
+* Project:        Nirman
+* Author:         CN-InfoTech
+* URL:            hthttps://themeforest.net/user/cn-infotech
+* Created:        03/22/2019
+-------------------------------------------------------------------
+
+*/
+/* ========================================= */
+/*          Default CSS        */
+
+
+
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: 600;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  margin-top:0;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 32px; 
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+h6 {
+  font-size: 13px;
+}
+
+
+
+p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0;
+  color: #666; 
+  font-family: 'Roboto', sans-serif;
+}
+
+
+a {color: green;}
+
+a:hover{
+  text-decoration: none!important;
+  color: #ffac00!important;
+  transition: all 0.4s ease; 
+}
+

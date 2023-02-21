@@ -1,0 +1,241 @@
+
+/*------------------------------------------------------------------
+* Project:        Nirman
+* Author:         CN-InfoTech
+* URL:            hthttps://themeforest.net/user/cn-infotech
+* Created:        3/22/2019
+-------------------------------------------------------------------
+
+- // TABLE OF CONTENTS // -
+
+========================================================================
+ 
+
+ # Landing Page
+ ===============================================
+ 1) Header
+ 2) Banner
+ 3) About
+ 4) Services
+ 5) project
+ 6) Team
+ 7) Fun And Fact 
+ 8) Choose Us 
+ 9) FAQ & Testimonial
+ 10) Get Started
+ 11) Partner
+ 12) Newsletter 
+ 13) Footer
+ 14) Error
+ 15) ComingSoon
+ 16) Events
+ 17) Worker Homepage
+ 18) Video Homepage
+ 19) Industry Homepage
+
+/* ====================== */
+/*         Header         */
+/* ====================== */
+
+
+/*====================== */
+/*         About          */
+/* ====================== */
+
+#mt_about {
+    position: relative;
+    padding:100px 0 35px;
+}
+
+#mt_about .about-content{padding-right: 40px; padding-top: 25px;}
+
+#mt_about .about-content span{
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 52px;
+    position: relative;
+    color: #110729;
+    text-transform: uppercase;
+}
+
+#mt_about .about-content span:before {
+    content: '';
+    height: 2px;
+    width: 7%;
+    background: #ffac00;
+    position: absolute;
+    top: 45%;
+    left: 0;
+}
+
+#mt_about .about-img{
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 0px 30px #cccccc6e;
+    position: relative;
+}
+
+#mt_about .about-img:after{
+    content: '';
+    height: 90%;
+    width: 90%;
+    border: 5px solid #ffac00;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    z-index: -1;
+}
+
+span.about-no {
+    background: #ffac00;
+    display: inline-block;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    line-height: 2.2;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+
+#mt_about .about_services h3{display: block;}
+
+ #mt_about .about_services p{margin-top: 30px;}
+
+#mt_about .about_services .col-sm-4:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 1px;
+    background: #cccccc75;
+    right: 0;
+}
+
+ #mt_about .about_services .col-sm-4:last-child:before {
+    background: transparent;
+}
+
+#mt_about .about_services p{margin:20px 0 0;}
+
+
+@media only screen and (min-width: 991px) and (max-width: 1200px) {
+
+  #mt_about .about_sec_img {position: static; }  
+
+   #mt_about .about_sec_img .mt_about_img {
+    bottom: 0;
+    position: absolute;
+    width: 47%; 
+  } 
+}
+
+@media only screen and (max-width:1100px) {
+
+  #mt_about .about-content h2{font-size: 28px;}
+
+  #mt_about .about_services p{margin: 0;}
+}
+
+@media only screen and (max-width:991px) {
+  #mt_about{padding-top: 44px;}
+
+  #mt_about .about-content span{padding-left: 66px;}
+}
+
+@media only screen and (max-width: 767px) {
+  #mt_about .about_services .col-sm-6.mg-1{margin-bottom: 40px;}
+
+  #mt_about .about_services .col-sm-6{padding-left: 15px;}
+
+   #mt_about .about_services .col-sm-4:before{display: none;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  #mt_about .col-sm-7, #mt_about .col-sm-5{width: 100%; } 
+
+  #mt_about .image-rev{margin-top: 40px;} 
+}
+
+@media only screen and (max-width: 991px) {
+  #mt_about .about_services h2 {font-size: 21px; } 
+}
+
+@media only screen and (max-width: 767px) {
+  #mt_about .about_services .col-sm-4{margin-bottom: 30px;}
+
+  .about_services{margin-bottom: 25px;}
+
+}
+
+@media only screen and (max-width: 640px) {
+
+  #mt_about .about_services h5{display: block;}
+
+  #mt_about .about_services h2 {font-size: 18px; } 
+
+  #mt_about .about_services .col-sm-6{padding: 0;}
+}
+
+@media(max-width: 480px){
+  #mt_about .about-content span{padding-left: 50px;}
+}
+
+section#choose_us.about_choose_us {
+    padding-bottom: 0;
+}
+
+.page #mt_about.mission{padding-top: 50px; padding-bottom: 0;}
+
+.page #mt_about .about-content{padding: 0;}
+
+.mission-progress-bar {
+    padding-top: 50px;
+    display: inline-block;
+    width: 100%;
+}
+
+.mission-progress-bar .progress{
+  height: 18px;
+  margin-bottom: 15px;
+}
+
+.mission-progress-bar .progress-bar{
+  background: #ffac00;
+  box-shadow: none;
+}
+
+.mission-progress-bar h5{font-weight: 400;}
+
+.page section#const-team.about-const-team .section_heading{padding: 0;}
+
+.page section#mt_fun {
+    padding-top: 45px;
+}
+
+.page section#mt_faq-testi.about_mt_faq-testi{padding: 75px 0 80px;}
+
+
+@media(max-width: 1100px){
+  #mt_about .about-content{padding-right: 25px;}
+
+  .mission-list .col-sm-6{width: 100%;}
+}
+
+@media(max-width: 991px){
+  .mission-image{text-align: center; margin-bottom: 30px;}
+
+  #mt_about .about-img{margin-top: 30px; display: inline-block; width: 100%;}
+
+  #mt_about .about-img:after{display: none;}
+}
+
+@media(max-width: 767px){
+  #mt_about .about-content{padding-right: 0;}
+}
+
+@media(max-width: 640px){
+  #mt_about .about-content h2{font-size: 24px;}
+}
+
