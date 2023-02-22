@@ -32,8 +32,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Cover="";
 
 	$Facebook="https://www.facebook.com/profile.php?id=100089983905943";
-	$Instagram="https://www.instagram.com/";
-	$Yelp="https://www.yelp.com/";
+	$Instagram="https://www.instagram.com/diazdemolition_junkremoval08/";
+	$Yelp="https://www.yelp.com/biz/diaz-demoliton-and-junk-removal-chicago/";
 	$Angi="https://www.angi.com/";
 	$Thum="https://www.thumbtack.com/";
 	$gl = "https://google.com/";
