@@ -38,8 +38,8 @@
                             <br>
 
                             
-                            <a href="<?php echo $Angi ?>" class="box"  targat="_blank">
-                                <img src="img/payment/angi.png" class="hover-img imagen-full">
+                            <a href="<?php echo $Manta ?>" class="box"  targat="_blank">
+                                <img src="img/payment/manta.png" class="hover-img imagen-full">
                             </a>
 
                          

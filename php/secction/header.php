@@ -1,7 +1,7 @@
 <?php @session_start();?>
 <!DOCTYPE html>
 <?php include 'php/text.php';?>
-<?php include('php/secction/mail.php') ?>
+<!--?php include('php/secction/mail.php') ?-->
 <html lang="en">
 
 <head>

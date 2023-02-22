@@ -31,6 +31,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Schedule="Lunes a Viernes: 8:00am - 5:00pm";	
 	$Cover="";
 
+	$Manta="https://www.manta.com/c/m1rpv55/diaz-demolition-and-junk-removal";
 	$Facebook="https://www.facebook.com/profile.php?id=100089983905943";
 	$Instagram="https://www.instagram.com/diazdemolition_junkremoval08/";
 	$Yelp="https://www.yelp.com/biz/diaz-demoliton-and-junk-removal-chicago/";
