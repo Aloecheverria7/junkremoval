@@ -19,7 +19,7 @@
                         data-voffset="-40" data-speed="500" data-start="500" data-easing="easeOutExpo"
                         data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3"
                         data-endspeed="1200" data-endeasing="Power4.easeIn">
-                        <h3><?php echo $Description[1]; ?></h3>
+                        <h3></h3>
                     </div>
 
                     <div class="tp-caption sfr sfb tp-resizeme" data-x="right" data-hoffset="15" data-y="center"

@@ -11,8 +11,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
 	$Company="junkremoval and demolition";
 	$Domain='Cafejinotegano.foxartmedia.com';//No dejar pleca al final del dominio
-	$Address='CHICAGO, IL';
-	$location='CHICAGO, IL';
+	$Address='CHICAGO';
+	$location='CHICAGO';
 
 	$PhoneName="Telefono";
 	$Phone='(312) 937-8277';
@@ -53,7 +53,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 
 	$tittle_2 = array(
 		"60 MILES",
-		"AROUND ILLINOIS",
+		"AROUND CHICAGO",
 		"MONDAY TO SUNDAY",
 		"7:00 AM TO 7:00 PM",
 		"Cash, Check & Zelle",
