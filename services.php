@@ -35,8 +35,10 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="service-box">
                                 <div class="service-content-holder">
-                                    <h2 class="text"><?php echo $SN[$i]; ?></h2>
-                                    <p><?php echo $SD[$i]; ?></p>
+                                    <div class="">
+                                        <h2 ><?php echo $SN[$i]; ?></h2>
+                                        <p><?php echo $SD[$i]; ?></p>
+                                    </div>
                                 </div>
                             </div>
                         </div>

@@ -18,7 +18,7 @@
                                 <div class="right-curve"></div>
                                 
                             	<div class="content">
-                                	<h3> <?php echo $SN[1] ?> </h3>
+                                	<h3> <?php echo $ExSD[1] ?> </h3>
                                     <div class="text"> <?php echo $SD[1] ?> </div>
                                     <div class="more-link"><a href="services.php" class="read-more">Read more</a></div>
                                 </div>

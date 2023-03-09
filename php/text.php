@@ -106,34 +106,34 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SD[0]="The best services, for our clients.";
 
 	$SN[1]="Demolitions";
-	$SD[1]="we provide top notch demolition services to help you create the space you need for your business or home.";
+	$SD[1]="We are advancing the demolition world with our specialist techniques. Employing the latest technological approach to demolition projects and utilising only the best possible machines available to bring down buildings, structures and installations in the fastest, safest and most efficient manner, Diaz Demolition & Junk Removal we are consistently pushing the boundaries of demolition to continue as world leaders in our fields of expertise.";
 
 	$SN[2]="Junk Remove";
-	$SD[2]="We offer a reliable and efficient service for a hassle-free junk removal experience at an unbeatable price.";
+	$SD[2]="Junk removal is an on-demand service to have just about any kind of trash removed from your home or business. We haul large items like furniture and appliances, do full house cleanouts, offer light demolition in many markets, and pick up all kinds of trash and construction debris from real estate cleanouts. Pretty much everything and anything (except hazardous waste) can be handled by Díaz Demolition & Junk Removal.";
 
 	$SN[3]="Delivery of materials";
-	$SD[3]="Experience faster, more reliable delivery, plus unmatched customer service with delivery materials.";
+	$SD[3]="When a project needs to be completed on time, it’s essential to hire a Diaz Demolition & Junk Removal Material Delivery service that can pick up, transport, warehouse, and deliver your building materials without delay. Enlisting a material pickup and delivery service will ensure your construction supplies are shipped with efficiency, accuracy, and speed according to your unique timeline. Also, with warehousing capabilities, they’ll be able to store and keep track of your items for when you require them.";
 
 	$SN[4]="Dump Trailers Rental";
-	$SD[4]="Renting tipper trailers makes transporting your heavy loads a breeze		.";
+	$SD[4]="If you need to transport and dump large debris materials including bricks, sand, rocks and as well as organic waste and construction debris like drywall and lumber, Diaz Demolition & Junk Removal stocks a wide array of dump trailers for rent. If you’re looking to rent queality dump trailers! look no further than Diaz Demolition & junk Removal. We offer quality options from the industry’s most trusted brands including East and Manac. Our stellar selection and knowledgeable team make it a guarantee that you’ll go home with the exact dump trailer rental you require.";
 
-	$SN[5]="Bopcat Rental";
-	$SD[5]="We provide a reliable BOPCAT RENTAL service with quick and easy returns.";
+	$SN[5]="Bobcat Rental";
+	$SD[5]="If you have a one-off job, need a special attachment, or just want to complete a project at home, we have a low cost option for you. Renting doesn’t require a large investment, and you don’t have to worry about upkeep. Just pay for what you need, complete your job, and return it when you’re done!";
 
-	$SN[6]="gutter clean Up";
-	$SD[6]="It allows to have an adequate cleaning avoiding water leaks.";
+	$SN[6]="Gutter clean Up";
+	$SD[6]="Gutter Cleaning is our specialty and we pride ourselves on our system of cleaning. Below is a step by step outline of what you can expect when we come to your home for your gutter cleaning. We remove leaves, acorns, sticks and any other debris from your roof. Many times debris gets caught in the valleys of a roof or behind chimneys. For these situations we utilize extension poles or powerful air blowers to remove it.";
 
-	$SN[7]="pressure washing";
-	$SD[7]="Our professional-grade pressure cleaning services are designed to take care of all your needs quickly, efficiently.";
+	$SN[7]="Pressure washing";
+	$SD[7]="Has the exterior of your business or home been looking a bit lackluster lately? If you are hoping to restore the former vibrance of your home or business, professional pressure washing may be in order. Here at Diaz Demolition & Junk Removal, we combine technology, extensive training, and a robust work ethic to ensure that home and business owners are pleased with our power washing services.";
 
-	$SN[8]="mulching";
-	$SD[8]="We offer services that quickly remove all the clutter from your lawn.";
+	$SN[8]="Mulching";
+	$SD[8]="At Diaz Demolition & Junk Removal, we offer complete mulching of lawn, garden and other requested areas. Mulching  is very important in maintaining a beautiful yard and garden. Not only does this process extend the lifespan of your lawn but it affects the aesthetics of your landscaping by offering a polished, finished look that blends all plants together. Along with protecting your plants and soil from harmful organisms, mulch also helps control weeds, maintain soil nutrients, prevent soil erosion and foster soil water retention. Mulch also encourages earthworms to move in and while many pests can hurt your garden, earthworms work harmoniously by improving soil structure and nutrient cycling.";
 
-	$SN[9]="yard maintenence";
-	$SD[9]="we have the experience, tools and time to keep your lawn looking fresh";
+	$SN[9]="Yard maintenance";
+	$SD[9]="Your lawn, how it looks and is maintained says a lot about your property, which is why it can play a big role in its value. A healthy, well-maintained lawn not only looks good, but it can also help increase the value of your home. If maintaining the health and look of your lawn is a challenge, Diaz Demolition & Junk Removal can provide trustworthy landscape solutions that can help you have a beautiful lawn and yard too! We provide residential lawn maintenance and lawn care services, ranging from mowing to fertilization and more.";
 
-	$SN[]="house cleaning";
-	$SD[]="We'll make sure your home shines, without any effort on your part..";
+	$SN[]="House cleaning";
+	$SD[]="At Diaz Demolition & Junk Removal, we offer a variety of top-quality cleaning services to meet your needs.	Our goal is to provide you with a premium house cleaning service, honest estimates, and helpful consultations to make the process as seamless as possible for you.";
 
 
 
